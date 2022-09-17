@@ -59,5 +59,5 @@ dependencies {
     androidTestImplementation "androidx.compose.ui:ui-test-junit4:$compose_version"
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
     debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_version"
-    implementation project(":charts")
+    implementation 'com.github.landryfomena:Goze_Libraries_public:1.0'
 }
